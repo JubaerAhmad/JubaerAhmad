@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="jubaer | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="jubaer.xyz" width="22px" src="https://img.icons8.com/nolan/64/internet.png" />][website]
+[<img align="left" alt="jubaer.xyz" width="22px" src="https://img.icons8.com/ios-glyphs/50/000000/internet--v1.png" />][website]
 [<img align="left" alt="jubaer | YouTube" width="22px" src="https://img.icons8.com/color/2x/youtube-squared.png" />][youtube]
 [<img align="left" alt="jubaer | Twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
 [<img align="left" alt="jubaer | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]
