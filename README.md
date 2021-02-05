@@ -1,4 +1,4 @@
-### Hi there, I'm [Nur Sayed][website] 👋
+### Hi there, I'm [Jubaer Ahmad][website] 👋
 
 ## I'm a Full Stake web Developer, Entrepreneur and Youtuber!
 - 🔭 I’m currently working on a [Youtube][Youtube]!
@@ -65,7 +65,7 @@
 
 <img align="left" alt="nursayed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nursayed&show_icons=true&hide_border=true" />
 
-[website]: https://nursayed.com
+[website]: https://jubaer.xyz
 [twitter]: https://twitter.com/nursayed01
 [Youtube]: https://www.youtube.com/channel/UCRMzMTyqSIxQacFxoGYFRCQ?sub_confirmation=1
 [instagram]: https://www.instagram.com/nursayed01/
