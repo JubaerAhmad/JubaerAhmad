@@ -66,11 +66,11 @@
 <img align="left" alt="nursayed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nursayed&show_icons=true&hide_border=true" />
 
 [website]: https://jubaer.xyz
-[twitter]: https://twitter.com/nursayed01
+[twitter]: https://twitter.com/
 [Youtube]: https://www.youtube.com/channel/UCQ1aLVG0FV7bKojwYwEZppw
-[instagram]: https://www.instagram.com/nursayed01/
-[linkedin]: https://www.linkedin.com/in/nursayed/
-[webdevplaylist]: https://www.youtube.com/watch?v=bwTIM2KMQr4&list=PLlJVPqN99v0yVPRKqlE_838-uStvHomtV
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[instagram]: https://www.instagram.com/
+[linkedin]: https://www.linkedin.com/
+[webdevplaylist]: https://www.youtube.com/
+[jsplaylist]: https://www.youtube.com/
+[cssplaylist]: https://www.youtube.com/
+[reactplaylist]: https://www.youtube.com/
