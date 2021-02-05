@@ -67,7 +67,7 @@
 
 [website]: https://jubaer.xyz
 [twitter]: https://twitter.com/nursayed01
-[Youtube]: https://www.youtube.com/channel/UCRMzMTyqSIxQacFxoGYFRCQ?sub_confirmation=1
+[Youtube]: https://www.youtube.com/channel/UCQ1aLVG0FV7bKojwYwEZppw
 [instagram]: https://www.instagram.com/nursayed01/
 [linkedin]: https://www.linkedin.com/in/nursayed/
 [webdevplaylist]: https://www.youtube.com/watch?v=bwTIM2KMQr4&list=PLlJVPqN99v0yVPRKqlE_838-uStvHomtV
