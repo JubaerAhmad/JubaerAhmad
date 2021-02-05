@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Youtube][Youtube]!
 - 🌱 I’m currently learning new skill
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to write code and teach other people
 
 ### Connect with me:
