@@ -9,12 +9,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nursayed | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="nursayed.com" width="22px" src="https://img.icons8.com/fluent/2x/domain.png" />][website]
-[<img align="left" alt="nursayed | YouTube" width="22px" src="https://img.icons8.com/color/2x/youtube-squared.png" />][youtube]
-[<img align="left" alt="nursayed | Twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
-[<img align="left" alt="nursayed | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]
-[<img align="left" alt="nursayed | Instagram" width="22px" src="https://img.icons8.com/fluent/2x/instagram-new.png" />][instagram]
+[<img align="left" alt="jubaer | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="jubaer.xyz" width="22px" src="https://img.icons8.com/fluent/2x/domain.png" />][website]
+[<img align="left" alt="jubaer | YouTube" width="22px" src="https://img.icons8.com/color/2x/youtube-squared.png" />][youtube]
+[<img align="left" alt="jubaer | Twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
+[<img align="left" alt="jubaer | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]
+[<img align="left" alt="jubaer | Instagram" width="22px" src="https://img.icons8.com/fluent/2x/instagram-new.png" />][instagram]
 
 <br />
 
@@ -30,8 +30,8 @@
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
