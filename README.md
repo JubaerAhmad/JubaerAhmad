@@ -70,7 +70,7 @@
 [website]: https://jubaer.xyz
 [facebook]: https://web.facebook.com/JubaerAhmad.Me
 [twitter]: https://twitter.com/
-[Youtube]: https://www.youtube.com/channel/UCQ1aLVG0FV7bKojwYwEZppw
+[Youtube]: https://www.youtube.com/studyaider
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/
 [webdevplaylist]: https://www.youtube.com/
