@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nursayed | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][youtube]
+[<img align="left" alt="nursayed | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="nursayed.com" width="22px" src="https://img.icons8.com/fluent/2x/domain.png" />][website]
 [<img align="left" alt="nursayed | YouTube" width="22px" src="https://img.icons8.com/color/2x/youtube-squared.png" />][youtube]
 [<img align="left" alt="nursayed | Twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
@@ -68,6 +68,7 @@
 <img align="left" alt="Jubaer Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JubaerAhmad&show_icons=true&hide_border=true" />
 
 [website]: https://jubaer.xyz
+[facebook]: https://facebook.com/
 [twitter]: https://twitter.com/
 [Youtube]: https://www.youtube.com/channel/UCQ1aLVG0FV7bKojwYwEZppw
 [instagram]: https://www.instagram.com/
