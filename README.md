@@ -63,7 +63,7 @@
 
 ---
 
-<img align="left" alt="nursayed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nursayed&show_icons=true&hide_border=true" />
+<img align="left" alt="Jubaer Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nursayed&show_icons=true&hide_border=true" />
 
 [website]: https://jubaer.xyz
 [twitter]: https://twitter.com/
