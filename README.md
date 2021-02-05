@@ -9,6 +9,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="nursayed | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][youtube]
 [<img align="left" alt="nursayed.com" width="22px" src="https://img.icons8.com/fluent/2x/domain.png" />][website]
 [<img align="left" alt="nursayed | YouTube" width="22px" src="https://img.icons8.com/color/2x/youtube-squared.png" />][youtube]
 [<img align="left" alt="nursayed | Twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
