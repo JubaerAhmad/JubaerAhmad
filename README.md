@@ -66,11 +66,9 @@
 
 ---
 
-<img align="left" alt="Jubaer Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JubaerAhmad&show_icons=true&hide_border=true" /><br>
+<img align="left" alt="Jubaer Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JubaerAhmad&show_icons=true&hide_border=true" />
 
----
-***
-___
+
 [website]: https://jubaer.xyz
 [facebook]: https://web.facebook.com/JubaerAhmad.Me
 [twitter]: https://twitter.com/
