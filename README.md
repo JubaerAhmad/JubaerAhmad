@@ -76,9 +76,9 @@
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
 [reactplaylist]: https://www.youtube.com/
-<p>
+
 <img alt="Jubaer Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JubaerAhmad&show_icons=true&hide_border=true" />
-</p>
+
 <br />
 
 ---
