@@ -1,6 +1,6 @@
-### Hi there, I'm [Jubaer Ahmad][website]👿
+### Hi there, I'm [Jubaer Ahmad][website]
 
-## I'm a Full Stake web Developer, Entrepreneur and Youtuber!
+## I'm a Full Stack web Developer, Entrepreneur and Youtuber!
 - 🔭 I’m currently working on a [youtube]
 - 🌱 I’m currently learning new skill
 - 👯 I’m looking to collaborate with other content creators
@@ -64,9 +64,11 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/)
 <!-- BLOG-POST-LIST:END -->
 
+<img align="left" alt="Jubaer Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JubaerAhmad&show_icons=true&hide_border=true" />
+
 ---
 
-<img align="left" alt="Jubaer Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JubaerAhmad&show_icons=true&hide_border=true" />
+
 
 [website]: https://jubaer.xyz
 [facebook]: https://web.facebook.com/JubaerAhmad.Me
