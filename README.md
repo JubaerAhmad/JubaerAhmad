@@ -44,7 +44,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### :clapper: Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/)
 - [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/)
