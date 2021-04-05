@@ -13,7 +13,6 @@
 
 [<img align="left" alt="jubaer | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="jubaer.xyz" width="22px" src="https://img.icons8.com/ios-glyphs/50/000000/internet--v1.png" />][website]
-[<img align="left" alt="jubaer | YouTube" width="22px" src="https://img.icons8.com/color/2x/youtube-squared.png" />][youtube]
 [<img align="left" alt="jubaer | Twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
 [<img align="left" alt="jubaer | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]
 [<img align="left" alt="jubaer | Instagram" width="22px" src="https://img.icons8.com/fluent/2x/instagram-new.png" />][instagram]
@@ -80,7 +79,7 @@
 [cssplaylist]: https://www.youtube.com/
 [reactplaylist]: https://www.youtube.com/
 
-
+<br>
 ---
 ***
 ___
