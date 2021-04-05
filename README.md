@@ -9,6 +9,8 @@
 
 ### Connect with me:
 [![Youtube Channel](https://img.shields.io/badge/Darun%20IT-Subscribe-red)](https://www.youtube.com/darunit "Pls subscribe the channel")
+
+
 [<img align="left" alt="jubaer | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="jubaer.xyz" width="22px" src="https://img.icons8.com/ios-glyphs/50/000000/internet--v1.png" />][website]
 [<img align="left" alt="jubaer | YouTube" width="22px" src="https://img.icons8.com/color/2x/youtube-squared.png" />][youtube]
@@ -66,9 +68,6 @@
 ---
 
 <img align="left" alt="Jubaer Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JubaerAhmad&show_icons=true&hide_border=true" />
----
-***
-___
 
 [website]: https://jubaer.xyz
 [facebook]: https://web.facebook.com/JubaerAhmad.Me
@@ -81,4 +80,7 @@ ___
 [cssplaylist]: https://www.youtube.com/
 [reactplaylist]: https://www.youtube.com/
 
+---
+***
+___
 
