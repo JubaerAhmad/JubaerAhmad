@@ -1,4 +1,3 @@
->Just Test
 ### Hi there, I'm [Jubaer Ahmad][website]
 
 ## I'm a Full Stake web Developer, Entrepreneur and Youtuber!
