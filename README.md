@@ -1,7 +1,7 @@
 ### Hi there, I'm [Jubaer Ahmad][website]
 
 ## I'm a Full Stake web Developer, Entrepreneur and Youtuber!
-- 🔭 I’m currently working on a [Youtube][Youtube]!
+- 🔭 I’m currently working on a [![Youtube Channel](https://img.shields.io/badge/Darun%20IT-Subscribe-red)](https://www.youtube.com/darunit "My youtube Channel")
 - 🌱 I’m currently learning new skill
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
