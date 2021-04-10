@@ -78,8 +78,9 @@
 [reactplaylist]: https://www.youtube.com/
 
 <img alt="Jubaer Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JubaerAhmad&show_icons=true&hide_border=true" />
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=JubaerAhmad&card_width=550)](https://github.com/JubaerAhmad)
 
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=JubaerAhmad&card_width=550)](https://github.com/JubaerAhmad)
 
 
 <br />
