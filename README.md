@@ -77,11 +77,10 @@
 [cssplaylist]: https://www.youtube.com/
 [reactplaylist]: https://www.youtube.com/
 
-<img width="1000" alt="Jubaer Ahmad Github Stats"  src="https://github-readme-stats.vercel.app/api?username=JUbaerAhmad&show_icons=true"/>
+<img width="800" alt="Jubaer Ahmad Github Stats"  src="https://github-readme-stats.vercel.app/api?username=JUbaerAhmad&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=JubaerAhmad&card_width=1000)](https://github.com/JubaerAhmad)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=JubaerAhmad&card_width=800)](https://github.com/JubaerAhmad)
 
-<br />
 
 ---
 ---
