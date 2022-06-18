@@ -2,7 +2,7 @@
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=learnwithsumit.learnwithsumit)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JubaerAhmad.JubaerAhmad)
 
 ## I'm a Full Stack web Developer, Entrepreneur and Youtuber!
 - 🔭 I’m currently working on a [youtube]
