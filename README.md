@@ -4,7 +4,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JubaerAhmad.JubaerAhmad)
 
-## I'm a Full Stack web Developer, Entrepreneur and Youtuber!
+## I'm an Entrepreneur and Youtuber!
 - 🔭 I’m currently working on a [youtube]
 - 🌱 I’m currently learning new skill
 - 👯 I’m looking to collaborate with other content creators
